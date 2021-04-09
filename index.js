@@ -1,1 +1,1 @@
-module.exports = require('./src/easypost').default;
+module.exports = require('./easypost.8-lts').default;
