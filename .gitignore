@@ -6,6 +6,7 @@ Icon
 .Spotlight-V100
 .Trashes
 
+node_modules
 npm-debug.log
 /easypost.js
 /easypost.js.map
